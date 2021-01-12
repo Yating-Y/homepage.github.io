@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Yating-Y/homepage.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## **Personal Information**
+### Ms.Yating Yuan
+### yating.yuan@uwaterloo.ca
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## **EDUCATION**
+### 2021.1 —— Now
+    - Ph.D student in Applied Mathematics
+    - The University of Waterloo, Ontario (Canada)
 
-### Markdown
+### 2016.9 —— 2019.6 
+    - Master of Science in Aeronautical and Astronautical Science and Technology
+    - Beijing Institute of Technology, Beijing (China)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 2012.9 —— 2016.6 
+    - Bachalor of Science in Detection, Guidance and Control Technology
+    - Beijing Institute of Technology, Beijing (China)
 
-```markdown
-Syntax highlighted code block
+## **RESEARCH INTEREST**
+    - Semantic SLAM
+    - Semantic Segmentation
+    - 3D Scene Reconstruction
+    
+## **PUBLICATIONS**
+    - Z. Yutong, D. Yan, and Y. Yating, "An object tracking algorithm with embedded gyro information," in Seventh International Conference on Electronics and Information Engineering, 17-18 Sept. 2016, USA, 2017, vol. 10322, p. 103220U (6 pp.): SPIE. (EI: 20171103439229)
 
-# Header 1
-## Header 2
-### Header 3
+    - C. Hai, D. Yan, D. Ming, Z. Liangjin, and Y. Yating, "A new stereo matching method based on threshold constrained minimum spanning tree," in Seventh International Conference on Electronics and Information Engineering, 17-18 Sept. 2016, USA, 2017, vol. 10322, p. 103222P (6 pp.): SPIE. (EI: 20171103439326) 
 
-- Bulleted
-- List
+    - Y. Yuan, Y. Ding, L. Zhao, and L. Lv, "An Improved Method of 3D Scene Reconstruction Based on SfM," in 2018 3rd International Conference on Robotics and Automation Engineering (ICRAE), 2018, pp. 228-232. (EI: 20190606477322)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Yating-Y/homepage.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+    - J. Zhang, Y. Ding, H. Xu and Y. Yuan, "An Optical Flow based Moving Objects Detection Algorithm for the UAV," in 2019 IEEE 4th International Conference on Computer and Communication Systems (ICCCS). IEEE, 2019: 233-238. (EI:20194107516504)
